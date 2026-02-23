@@ -1,0 +1,7 @@
+
+body { background:#0b1a2a; color:#e6c77a; font-family:Arial; }
+header { background:#10263d; padding:10px; }
+h1 { color:#ffd700; }
+table { width:100%; border-collapse:collapse; }
+td,th { border:1px solid #555; padding:5px; text-align:center; }
+button { background:#1f3b5c; color:white; border:none; padding:6px; margin:3px; }

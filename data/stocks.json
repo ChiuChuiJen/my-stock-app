@@ -1,0 +1,3602 @@
+[
+  {
+    "code": "1001",
+    "name": "昇光",
+    "sector": "觀光餐飲",
+    "price": 81.45,
+    "basePrice": 81.45,
+    "shares": 329969000,
+    "volume": 76192
+  },
+  {
+    "code": "1002",
+    "name": "昇信星",
+    "sector": "AI概念",
+    "price": 357.25,
+    "basePrice": 357.25,
+    "shares": 180842000,
+    "volume": 31733
+  },
+  {
+    "code": "1003",
+    "name": "富國翔寶昇",
+    "sector": "航運",
+    "price": 59.04,
+    "basePrice": 59.04,
+    "shares": 436001000,
+    "volume": 99645
+  },
+  {
+    "code": "1004",
+    "name": "昇翔國",
+    "sector": "汽車",
+    "price": 178.74,
+    "basePrice": 178.74,
+    "shares": 178695000,
+    "volume": 44428
+  },
+  {
+    "code": "1005",
+    "name": "智順",
+    "sector": "綠能",
+    "price": 88.56,
+    "basePrice": 88.56,
+    "shares": 188281000,
+    "volume": 58153
+  },
+  {
+    "code": "1006",
+    "name": "泰瑞",
+    "sector": "生技醫療",
+    "price": 246.18,
+    "basePrice": 246.18,
+    "shares": 54512000,
+    "volume": 70066
+  },
+  {
+    "code": "1007",
+    "name": "翔新新",
+    "sector": "運動休閒",
+    "price": 90.3,
+    "basePrice": 90.3,
+    "shares": 112168000,
+    "volume": 69272
+  },
+  {
+    "code": "1008",
+    "name": "盛富華",
+    "sector": "觀光餐飲",
+    "price": 184.6,
+    "basePrice": 184.6,
+    "shares": 153362000,
+    "volume": 79784
+  },
+  {
+    "code": "1009",
+    "name": "達鑫",
+    "sector": "食品",
+    "price": 201.81,
+    "basePrice": 201.81,
+    "shares": 377709000,
+    "volume": 14246
+  },
+  {
+    "code": "1010",
+    "name": "成華元昇昇",
+    "sector": "汽車",
+    "price": 28.0,
+    "basePrice": 28.0,
+    "shares": 34006000,
+    "volume": 96113
+  },
+  {
+    "code": "1011",
+    "name": "安盛",
+    "sector": "生技醫療",
+    "price": 130.0,
+    "basePrice": 130.0,
+    "shares": 173860000,
+    "volume": 13399
+  },
+  {
+    "code": "1012",
+    "name": "威鼎永聯",
+    "sector": "綠能",
+    "price": 86.1,
+    "basePrice": 86.1,
+    "shares": 206700000,
+    "volume": 14648
+  },
+  {
+    "code": "1013",
+    "name": "光安順元",
+    "sector": "食品",
+    "price": 19.44,
+    "basePrice": 19.44,
+    "shares": 66850000,
+    "volume": 4387
+  },
+  {
+    "code": "1014",
+    "name": "宏新盛智",
+    "sector": "汽車",
+    "price": 68.8,
+    "basePrice": 68.8,
+    "shares": 81145000,
+    "volume": 71935
+  },
+  {
+    "code": "1015",
+    "name": "威元昇信智",
+    "sector": "金融保險",
+    "price": 233.6,
+    "basePrice": 233.6,
+    "shares": 25561000,
+    "volume": 11652
+  },
+  {
+    "code": "1016",
+    "name": "翔成聯鑫",
+    "sector": "光電",
+    "price": 160.82,
+    "basePrice": 160.82,
+    "shares": 183353000,
+    "volume": 4348
+  },
+  {
+    "code": "1017",
+    "name": "興光翔興永",
+    "sector": "半導體",
+    "price": 22.62,
+    "basePrice": 22.62,
+    "shares": 378455000,
+    "volume": 77505
+  },
+  {
+    "code": "1018",
+    "name": "鑫華盛富盛",
+    "sector": "金融保險",
+    "price": 55.44,
+    "basePrice": 55.44,
+    "shares": 372324000,
+    "volume": 89216
+  },
+  {
+    "code": "1019",
+    "name": "寶翔盛智威",
+    "sector": "運動休閒",
+    "price": 99.11,
+    "basePrice": 99.11,
+    "shares": 267228000,
+    "volume": 84323
+  },
+  {
+    "code": "1020",
+    "name": "信富國新信",
+    "sector": "水泥營造",
+    "price": 189.0,
+    "basePrice": 189.0,
+    "shares": 268687000,
+    "volume": 22315
+  },
+  {
+    "code": "1021",
+    "name": "元大",
+    "sector": "水泥營造",
+    "price": 281.19,
+    "basePrice": 281.19,
+    "shares": 316673000,
+    "volume": 14478
+  },
+  {
+    "code": "1022",
+    "name": "鑫宏信興",
+    "sector": "綠能",
+    "price": 44.7,
+    "basePrice": 44.7,
+    "shares": 458260000,
+    "volume": 73405
+  },
+  {
+    "code": "1023",
+    "name": "寶信順富",
+    "sector": "光電",
+    "price": 96.2,
+    "basePrice": 96.2,
+    "shares": 482667000,
+    "volume": 59204
+  },
+  {
+    "code": "1024",
+    "name": "聯星",
+    "sector": "金融保險",
+    "price": 181.09,
+    "basePrice": 181.09,
+    "shares": 241332000,
+    "volume": 81435
+  },
+  {
+    "code": "1025",
+    "name": "永元信聯",
+    "sector": "汽車",
+    "price": 165.5,
+    "basePrice": 165.5,
+    "shares": 178692000,
+    "volume": 98960
+  },
+  {
+    "code": "1026",
+    "name": "瑞鑫智順",
+    "sector": "AI概念",
+    "price": 133.62,
+    "basePrice": 133.62,
+    "shares": 201961000,
+    "volume": 27542
+  },
+  {
+    "code": "1027",
+    "name": "寶寶興翔",
+    "sector": "生技醫療",
+    "price": 219.25,
+    "basePrice": 219.25,
+    "shares": 48403000,
+    "volume": 64572
+  },
+  {
+    "code": "1028",
+    "name": "翔智創寶",
+    "sector": "電機機械",
+    "price": 41.0,
+    "basePrice": 41.0,
+    "shares": 405681000,
+    "volume": 21102
+  },
+  {
+    "code": "1029",
+    "name": "創創瑞",
+    "sector": "AI概念",
+    "price": 337.5,
+    "basePrice": 337.5,
+    "shares": 397006000,
+    "volume": 20750
+  },
+  {
+    "code": "1030",
+    "name": "泰達",
+    "sector": "塑膠",
+    "price": 67.32,
+    "basePrice": 67.32,
+    "shares": 25894000,
+    "volume": 41040
+  },
+  {
+    "code": "1031",
+    "name": "安廣耀信順",
+    "sector": "觀光餐飲",
+    "price": 208.6,
+    "basePrice": 208.6,
+    "shares": 393209000,
+    "volume": 38695
+  },
+  {
+    "code": "1032",
+    "name": "國聯耀",
+    "sector": "食品",
+    "price": 90.64,
+    "basePrice": 90.64,
+    "shares": 28113000,
+    "volume": 41581
+  },
+  {
+    "code": "1033",
+    "name": "昇富華",
+    "sector": "油電燃料",
+    "price": 57.76,
+    "basePrice": 57.76,
+    "shares": 281609000,
+    "volume": 20186
+  },
+  {
+    "code": "1034",
+    "name": "耀國國威安",
+    "sector": "電機機械",
+    "price": 283.5,
+    "basePrice": 283.5,
+    "shares": 291116000,
+    "volume": 97916
+  },
+  {
+    "code": "1035",
+    "name": "安大昇昇",
+    "sector": "紡織",
+    "price": 287.28,
+    "basePrice": 287.28,
+    "shares": 266064000,
+    "volume": 73150
+  },
+  {
+    "code": "1036",
+    "name": "新威富盛",
+    "sector": "電腦周邊",
+    "price": 110.6,
+    "basePrice": 110.6,
+    "shares": 305264000,
+    "volume": 6880
+  },
+  {
+    "code": "1037",
+    "name": "鼎永",
+    "sector": "航運",
+    "price": 155.71,
+    "basePrice": 155.71,
+    "shares": 139602000,
+    "volume": 78138
+  },
+  {
+    "code": "1038",
+    "name": "成昇瑞廣富",
+    "sector": "光電",
+    "price": 311.85,
+    "basePrice": 311.85,
+    "shares": 333094000,
+    "volume": 79833
+  },
+  {
+    "code": "1039",
+    "name": "翔泰智大",
+    "sector": "電子組件",
+    "price": 233.68,
+    "basePrice": 233.68,
+    "shares": 115539000,
+    "volume": 8416
+  },
+  {
+    "code": "1040",
+    "name": "翔信寶星達",
+    "sector": "食品",
+    "price": 150.0,
+    "basePrice": 150.0,
+    "shares": 68746000,
+    "volume": 20371
+  },
+  {
+    "code": "1041",
+    "name": "宏星泰智",
+    "sector": "金融保險",
+    "price": 84.24,
+    "basePrice": 84.24,
+    "shares": 35958000,
+    "volume": 68092
+  },
+  {
+    "code": "1042",
+    "name": "廣宏安聯",
+    "sector": "航運",
+    "price": 13.6,
+    "basePrice": 13.6,
+    "shares": 395414000,
+    "volume": 61759
+  },
+  {
+    "code": "1043",
+    "name": "富寶成",
+    "sector": "汽車",
+    "price": 96.91,
+    "basePrice": 96.91,
+    "shares": 304746000,
+    "volume": 91016
+  },
+  {
+    "code": "1044",
+    "name": "翔智威國",
+    "sector": "汽車",
+    "price": 144.48,
+    "basePrice": 144.48,
+    "shares": 384094000,
+    "volume": 13339
+  },
+  {
+    "code": "1045",
+    "name": "順華元",
+    "sector": "生技醫療",
+    "price": 228.6,
+    "basePrice": 228.6,
+    "shares": 312861000,
+    "volume": 19927
+  },
+  {
+    "code": "1046",
+    "name": "泰翔",
+    "sector": "貿易百貨",
+    "price": 174.0,
+    "basePrice": 174.0,
+    "shares": 160557000,
+    "volume": 22499
+  },
+  {
+    "code": "1047",
+    "name": "智寶",
+    "sector": "汽車",
+    "price": 64.79,
+    "basePrice": 64.79,
+    "shares": 271704000,
+    "volume": 91820
+  },
+  {
+    "code": "1048",
+    "name": "鑫廣元",
+    "sector": "食品",
+    "price": 186.25,
+    "basePrice": 186.25,
+    "shares": 473195000,
+    "volume": 57166
+  },
+  {
+    "code": "1049",
+    "name": "光鼎創鼎興",
+    "sector": "貿易百貨",
+    "price": 139.04,
+    "basePrice": 139.04,
+    "shares": 370387000,
+    "volume": 43158
+  },
+  {
+    "code": "1050",
+    "name": "威翔國",
+    "sector": "觀光餐飲",
+    "price": 148.16,
+    "basePrice": 148.16,
+    "shares": 312803000,
+    "volume": 11625
+  },
+  {
+    "code": "1051",
+    "name": "宏盛星",
+    "sector": "其他",
+    "price": 102.6,
+    "basePrice": 102.6,
+    "shares": 252337000,
+    "volume": 49554
+  },
+  {
+    "code": "1052",
+    "name": "聯永新星",
+    "sector": "航運",
+    "price": 281.58,
+    "basePrice": 281.58,
+    "shares": 60673000,
+    "volume": 73642
+  },
+  {
+    "code": "1053",
+    "name": "耀達興成興",
+    "sector": "觀光餐飲",
+    "price": 55.44,
+    "basePrice": 55.44,
+    "shares": 275443000,
+    "volume": 39776
+  },
+  {
+    "code": "1054",
+    "name": "智信",
+    "sector": "水泥營造",
+    "price": 86.53,
+    "basePrice": 86.53,
+    "shares": 444875000,
+    "volume": 69273
+  },
+  {
+    "code": "1055",
+    "name": "星鼎威",
+    "sector": "電腦周邊",
+    "price": 141.78,
+    "basePrice": 141.78,
+    "shares": 379565000,
+    "volume": 9619
+  },
+  {
+    "code": "1056",
+    "name": "泰星光鑫",
+    "sector": "汽車",
+    "price": 190.08,
+    "basePrice": 190.08,
+    "shares": 483473000,
+    "volume": 70739
+  },
+  {
+    "code": "1057",
+    "name": "耀大廣",
+    "sector": "鋼鐵",
+    "price": 29.52,
+    "basePrice": 29.52,
+    "shares": 16251000,
+    "volume": 90487
+  },
+  {
+    "code": "1058",
+    "name": "翔興永成瑞",
+    "sector": "電腦周邊",
+    "price": 18.98,
+    "basePrice": 18.98,
+    "shares": 374041000,
+    "volume": 86477
+  },
+  {
+    "code": "1059",
+    "name": "盛國",
+    "sector": "塑膠",
+    "price": 112.53,
+    "basePrice": 112.53,
+    "shares": 248996000,
+    "volume": 95693
+  },
+  {
+    "code": "1060",
+    "name": "泰華大",
+    "sector": "其他",
+    "price": 51.72,
+    "basePrice": 51.72,
+    "shares": 280787000,
+    "volume": 17868
+  },
+  {
+    "code": "1061",
+    "name": "國新",
+    "sector": "塑膠",
+    "price": 122.85,
+    "basePrice": 122.85,
+    "shares": 347712000,
+    "volume": 7917
+  },
+  {
+    "code": "1062",
+    "name": "翔永盛翔",
+    "sector": "運動休閒",
+    "price": 91.2,
+    "basePrice": 91.2,
+    "shares": 374375000,
+    "volume": 99334
+  },
+  {
+    "code": "1063",
+    "name": "富威順",
+    "sector": "運動休閒",
+    "price": 49.42,
+    "basePrice": 49.42,
+    "shares": 482848000,
+    "volume": 89431
+  },
+  {
+    "code": "1064",
+    "name": "智星",
+    "sector": "生技醫療",
+    "price": 125.4,
+    "basePrice": 125.4,
+    "shares": 83718000,
+    "volume": 60472
+  },
+  {
+    "code": "1065",
+    "name": "泰達",
+    "sector": "光電",
+    "price": 195.2,
+    "basePrice": 195.2,
+    "shares": 358435000,
+    "volume": 82968
+  },
+  {
+    "code": "1066",
+    "name": "盛信廣廣耀",
+    "sector": "食品",
+    "price": 55.8,
+    "basePrice": 55.8,
+    "shares": 221904000,
+    "volume": 2263
+  },
+  {
+    "code": "1067",
+    "name": "永耀",
+    "sector": "航運",
+    "price": 43.24,
+    "basePrice": 43.24,
+    "shares": 209613000,
+    "volume": 41889
+  },
+  {
+    "code": "1068",
+    "name": "元昇達耀昇",
+    "sector": "其他",
+    "price": 119.88,
+    "basePrice": 119.88,
+    "shares": 29728000,
+    "volume": 10520
+  },
+  {
+    "code": "1069",
+    "name": "威鼎",
+    "sector": "紡織",
+    "price": 123.7,
+    "basePrice": 123.7,
+    "shares": 142565000,
+    "volume": 50460
+  },
+  {
+    "code": "1070",
+    "name": "興鑫智鼎",
+    "sector": "塑膠",
+    "price": 203.7,
+    "basePrice": 203.7,
+    "shares": 167060000,
+    "volume": 35224
+  },
+  {
+    "code": "1071",
+    "name": "聯元星富",
+    "sector": "電腦周邊",
+    "price": 29.4,
+    "basePrice": 29.4,
+    "shares": 282164000,
+    "volume": 14244
+  },
+  {
+    "code": "1072",
+    "name": "鑫華鼎聯",
+    "sector": "油電燃料",
+    "price": 172.6,
+    "basePrice": 172.6,
+    "shares": 379669000,
+    "volume": 76694
+  },
+  {
+    "code": "1073",
+    "name": "宏成光聯",
+    "sector": "電腦周邊",
+    "price": 116.82,
+    "basePrice": 116.82,
+    "shares": 373417000,
+    "volume": 90530
+  },
+  {
+    "code": "1074",
+    "name": "新威廣翔",
+    "sector": "食品",
+    "price": 131.32,
+    "basePrice": 131.32,
+    "shares": 451433000,
+    "volume": 29318
+  },
+  {
+    "code": "1075",
+    "name": "信智聯信",
+    "sector": "水泥營造",
+    "price": 93.5,
+    "basePrice": 93.5,
+    "shares": 372636000,
+    "volume": 45481
+  },
+  {
+    "code": "1076",
+    "name": "信國",
+    "sector": "貿易百貨",
+    "price": 20.24,
+    "basePrice": 20.24,
+    "shares": 250106000,
+    "volume": 92111
+  },
+  {
+    "code": "1077",
+    "name": "國耀國永",
+    "sector": "光電",
+    "price": 299.8,
+    "basePrice": 299.8,
+    "shares": 116549000,
+    "volume": 14426
+  },
+  {
+    "code": "1078",
+    "name": "瑞宏富",
+    "sector": "航運",
+    "price": 90.35,
+    "basePrice": 90.35,
+    "shares": 296241000,
+    "volume": 21466
+  },
+  {
+    "code": "1079",
+    "name": "元鑫",
+    "sector": "航運",
+    "price": 84.5,
+    "basePrice": 84.5,
+    "shares": 447451000,
+    "volume": 20902
+  },
+  {
+    "code": "1080",
+    "name": "廣興達翔",
+    "sector": "食品",
+    "price": 204.75,
+    "basePrice": 204.75,
+    "shares": 58200000,
+    "volume": 44367
+  },
+  {
+    "code": "1081",
+    "name": "聯達興大光",
+    "sector": "航運",
+    "price": 25.2,
+    "basePrice": 25.2,
+    "shares": 425504000,
+    "volume": 81323
+  },
+  {
+    "code": "1082",
+    "name": "智富富",
+    "sector": "半導體",
+    "price": 290.72,
+    "basePrice": 290.72,
+    "shares": 350960000,
+    "volume": 82931
+  },
+  {
+    "code": "1083",
+    "name": "成星永",
+    "sector": "食品",
+    "price": 108.3,
+    "basePrice": 108.3,
+    "shares": 395867000,
+    "volume": 4788
+  },
+  {
+    "code": "1084",
+    "name": "智華",
+    "sector": "汽車",
+    "price": 159.8,
+    "basePrice": 159.8,
+    "shares": 351203000,
+    "volume": 32975
+  },
+  {
+    "code": "1085",
+    "name": "國大華",
+    "sector": "鋼鐵",
+    "price": 112.96,
+    "basePrice": 112.96,
+    "shares": 481497000,
+    "volume": 34175
+  },
+  {
+    "code": "1086",
+    "name": "昇大華安威",
+    "sector": "光電",
+    "price": 225.59,
+    "basePrice": 225.59,
+    "shares": 317644000,
+    "volume": 97430
+  },
+  {
+    "code": "1087",
+    "name": "鑫昇星鼎",
+    "sector": "水泥營造",
+    "price": 67.41,
+    "basePrice": 67.41,
+    "shares": 305021000,
+    "volume": 62478
+  },
+  {
+    "code": "1088",
+    "name": "廣信信華",
+    "sector": "塑膠",
+    "price": 214.06,
+    "basePrice": 214.06,
+    "shares": 409206000,
+    "volume": 25441
+  },
+  {
+    "code": "1089",
+    "name": "泰華鼎",
+    "sector": "汽車",
+    "price": 31.2,
+    "basePrice": 31.2,
+    "shares": 64892000,
+    "volume": 96873
+  },
+  {
+    "code": "1090",
+    "name": "順安富",
+    "sector": "化工",
+    "price": 230.78,
+    "basePrice": 230.78,
+    "shares": 242376000,
+    "volume": 84436
+  },
+  {
+    "code": "1091",
+    "name": "智創星富達",
+    "sector": "電子組件",
+    "price": 50.71,
+    "basePrice": 50.71,
+    "shares": 316933000,
+    "volume": 8301
+  },
+  {
+    "code": "1092",
+    "name": "永大",
+    "sector": "食品",
+    "price": 97.58,
+    "basePrice": 97.58,
+    "shares": 453495000,
+    "volume": 75323
+  },
+  {
+    "code": "1093",
+    "name": "寶宏智元泰",
+    "sector": "食品",
+    "price": 26.04,
+    "basePrice": 26.04,
+    "shares": 420942000,
+    "volume": 45095
+  },
+  {
+    "code": "1094",
+    "name": "國智",
+    "sector": "貿易百貨",
+    "price": 56.05,
+    "basePrice": 56.05,
+    "shares": 217927000,
+    "volume": 43373
+  },
+  {
+    "code": "1095",
+    "name": "大安聯宏寶",
+    "sector": "汽車",
+    "price": 104.22,
+    "basePrice": 104.22,
+    "shares": 223546000,
+    "volume": 86166
+  },
+  {
+    "code": "1096",
+    "name": "星大華華",
+    "sector": "運動休閒",
+    "price": 338.1,
+    "basePrice": 338.1,
+    "shares": 73334000,
+    "volume": 43892
+  },
+  {
+    "code": "1097",
+    "name": "順翔",
+    "sector": "油電燃料",
+    "price": 144.59,
+    "basePrice": 144.59,
+    "shares": 194141000,
+    "volume": 5255
+  },
+  {
+    "code": "1098",
+    "name": "光聯",
+    "sector": "觀光餐飲",
+    "price": 38.72,
+    "basePrice": 38.72,
+    "shares": 255466000,
+    "volume": 39252
+  },
+  {
+    "code": "1099",
+    "name": "國信寶星新",
+    "sector": "化工",
+    "price": 224.16,
+    "basePrice": 224.16,
+    "shares": 273197000,
+    "volume": 74717
+  },
+  {
+    "code": "1100",
+    "name": "國翔",
+    "sector": "鋼鐵",
+    "price": 150.5,
+    "basePrice": 150.5,
+    "shares": 236998000,
+    "volume": 94206
+  },
+  {
+    "code": "1101",
+    "name": "安安宏",
+    "sector": "電子組件",
+    "price": 14.76,
+    "basePrice": 14.76,
+    "shares": 25954000,
+    "volume": 45646
+  },
+  {
+    "code": "1102",
+    "name": "信大",
+    "sector": "電子組件",
+    "price": 82.08,
+    "basePrice": 82.08,
+    "shares": 177015000,
+    "volume": 62362
+  },
+  {
+    "code": "1103",
+    "name": "星大威永",
+    "sector": "光電",
+    "price": 185.61,
+    "basePrice": 185.61,
+    "shares": 65497000,
+    "volume": 84284
+  },
+  {
+    "code": "1104",
+    "name": "鑫泰興",
+    "sector": "塑膠",
+    "price": 17.85,
+    "basePrice": 17.85,
+    "shares": 245767000,
+    "volume": 50215
+  },
+  {
+    "code": "1105",
+    "name": "富安盛",
+    "sector": "水泥營造",
+    "price": 192.66,
+    "basePrice": 192.66,
+    "shares": 117662000,
+    "volume": 15029
+  },
+  {
+    "code": "1106",
+    "name": "新華成智",
+    "sector": "塑膠",
+    "price": 25.92,
+    "basePrice": 25.92,
+    "shares": 204908000,
+    "volume": 97987
+  },
+  {
+    "code": "1107",
+    "name": "鼎達",
+    "sector": "鋼鐵",
+    "price": 104.17,
+    "basePrice": 104.17,
+    "shares": 225911000,
+    "volume": 98963
+  },
+  {
+    "code": "1108",
+    "name": "新星寶",
+    "sector": "半導體",
+    "price": 193.8,
+    "basePrice": 193.8,
+    "shares": 177474000,
+    "volume": 95872
+  },
+  {
+    "code": "1109",
+    "name": "信元",
+    "sector": "水泥營造",
+    "price": 118.25,
+    "basePrice": 118.25,
+    "shares": 329251000,
+    "volume": 73340
+  },
+  {
+    "code": "1110",
+    "name": "智達",
+    "sector": "化工",
+    "price": 80.37,
+    "basePrice": 80.37,
+    "shares": 431194000,
+    "volume": 31321
+  },
+  {
+    "code": "1111",
+    "name": "永泰創瑞",
+    "sector": "油電燃料",
+    "price": 134.16,
+    "basePrice": 134.16,
+    "shares": 180439000,
+    "volume": 25011
+  },
+  {
+    "code": "1112",
+    "name": "創元",
+    "sector": "航運",
+    "price": 41.44,
+    "basePrice": 41.44,
+    "shares": 38550000,
+    "volume": 46204
+  },
+  {
+    "code": "1113",
+    "name": "智安達國",
+    "sector": "運動休閒",
+    "price": 235.68,
+    "basePrice": 235.68,
+    "shares": 181617000,
+    "volume": 47343
+  },
+  {
+    "code": "1114",
+    "name": "華國泰",
+    "sector": "生技醫療",
+    "price": 91.62,
+    "basePrice": 91.62,
+    "shares": 449438000,
+    "volume": 40303
+  },
+  {
+    "code": "1115",
+    "name": "國星耀鑫聯",
+    "sector": "化工",
+    "price": 221.32,
+    "basePrice": 221.32,
+    "shares": 485739000,
+    "volume": 1250
+  },
+  {
+    "code": "1116",
+    "name": "聯光寶",
+    "sector": "化工",
+    "price": 138.84,
+    "basePrice": 138.84,
+    "shares": 223649000,
+    "volume": 93629
+  },
+  {
+    "code": "1117",
+    "name": "鑫達富",
+    "sector": "金融保險",
+    "price": 233.41,
+    "basePrice": 233.41,
+    "shares": 23534000,
+    "volume": 10860
+  },
+  {
+    "code": "1118",
+    "name": "宏廣安富鼎",
+    "sector": "食品",
+    "price": 90.64,
+    "basePrice": 90.64,
+    "shares": 377829000,
+    "volume": 25743
+  },
+  {
+    "code": "1119",
+    "name": "廣廣永富華",
+    "sector": "油電燃料",
+    "price": 184.32,
+    "basePrice": 184.32,
+    "shares": 337745000,
+    "volume": 55523
+  },
+  {
+    "code": "1120",
+    "name": "宏創",
+    "sector": "油電燃料",
+    "price": 63.5,
+    "basePrice": 63.5,
+    "shares": 452994000,
+    "volume": 60653
+  },
+  {
+    "code": "1121",
+    "name": "光盛富信廣",
+    "sector": "鋼鐵",
+    "price": 160.16,
+    "basePrice": 160.16,
+    "shares": 41979000,
+    "volume": 6473
+  },
+  {
+    "code": "1122",
+    "name": "寶安",
+    "sector": "生技醫療",
+    "price": 180.45,
+    "basePrice": 180.45,
+    "shares": 95621000,
+    "volume": 11699
+  },
+  {
+    "code": "1123",
+    "name": "富盛宏成鼎",
+    "sector": "生技醫療",
+    "price": 32.3,
+    "basePrice": 32.3,
+    "shares": 170838000,
+    "volume": 75752
+  },
+  {
+    "code": "1124",
+    "name": "順耀聯信",
+    "sector": "光電",
+    "price": 74.1,
+    "basePrice": 74.1,
+    "shares": 144915000,
+    "volume": 52585
+  },
+  {
+    "code": "1125",
+    "name": "大元聯光",
+    "sector": "電子組件",
+    "price": 79.5,
+    "basePrice": 79.5,
+    "shares": 412068000,
+    "volume": 14985
+  },
+  {
+    "code": "1126",
+    "name": "鼎翔",
+    "sector": "油電燃料",
+    "price": 26.04,
+    "basePrice": 26.04,
+    "shares": 300659000,
+    "volume": 5348
+  },
+  {
+    "code": "1127",
+    "name": "翔瑞昇國星",
+    "sector": "綠能",
+    "price": 12.32,
+    "basePrice": 12.32,
+    "shares": 17221000,
+    "volume": 5014
+  },
+  {
+    "code": "1128",
+    "name": "富寶華盛",
+    "sector": "電腦周邊",
+    "price": 295.2,
+    "basePrice": 295.2,
+    "shares": 126260000,
+    "volume": 21837
+  },
+  {
+    "code": "1129",
+    "name": "永光達",
+    "sector": "其他",
+    "price": 50.3,
+    "basePrice": 50.3,
+    "shares": 333419000,
+    "volume": 54115
+  },
+  {
+    "code": "1130",
+    "name": "信安",
+    "sector": "食品",
+    "price": 63.84,
+    "basePrice": 63.84,
+    "shares": 382281000,
+    "volume": 55801
+  },
+  {
+    "code": "1131",
+    "name": "創永信",
+    "sector": "綠能",
+    "price": 284.2,
+    "basePrice": 284.2,
+    "shares": 319494000,
+    "volume": 56329
+  },
+  {
+    "code": "1132",
+    "name": "創鑫盛寶",
+    "sector": "運動休閒",
+    "price": 139.92,
+    "basePrice": 139.92,
+    "shares": 132013000,
+    "volume": 23271
+  },
+  {
+    "code": "1133",
+    "name": "翔盛耀大創",
+    "sector": "紡織",
+    "price": 284.02,
+    "basePrice": 284.02,
+    "shares": 167672000,
+    "volume": 83049
+  },
+  {
+    "code": "1134",
+    "name": "泰元富",
+    "sector": "綠能",
+    "price": 348.24,
+    "basePrice": 348.24,
+    "shares": 137588000,
+    "volume": 16662
+  },
+  {
+    "code": "1135",
+    "name": "創富瑞大昇",
+    "sector": "電腦周邊",
+    "price": 77.88,
+    "basePrice": 77.88,
+    "shares": 289286000,
+    "volume": 12390
+  },
+  {
+    "code": "1136",
+    "name": "興星國",
+    "sector": "生技醫療",
+    "price": 142.12,
+    "basePrice": 142.12,
+    "shares": 161496000,
+    "volume": 96189
+  },
+  {
+    "code": "1137",
+    "name": "光順宏華瑞",
+    "sector": "觀光餐飲",
+    "price": 34.72,
+    "basePrice": 34.72,
+    "shares": 36864000,
+    "volume": 86664
+  },
+  {
+    "code": "1138",
+    "name": "安成",
+    "sector": "運動休閒",
+    "price": 79.12,
+    "basePrice": 79.12,
+    "shares": 100803000,
+    "volume": 35375
+  },
+  {
+    "code": "1139",
+    "name": "大宏創盛",
+    "sector": "鋼鐵",
+    "price": 136.2,
+    "basePrice": 136.2,
+    "shares": 312395000,
+    "volume": 86399
+  },
+  {
+    "code": "1140",
+    "name": "新成新成大",
+    "sector": "化工",
+    "price": 19.04,
+    "basePrice": 19.04,
+    "shares": 405792000,
+    "volume": 60802
+  },
+  {
+    "code": "1141",
+    "name": "成智鼎",
+    "sector": "電腦周邊",
+    "price": 240.58,
+    "basePrice": 240.58,
+    "shares": 385634000,
+    "volume": 31323
+  },
+  {
+    "code": "1142",
+    "name": "寶元智智光",
+    "sector": "半導體",
+    "price": 62.6,
+    "basePrice": 62.6,
+    "shares": 88351000,
+    "volume": 67391
+  },
+  {
+    "code": "1143",
+    "name": "耀宏興華",
+    "sector": "綠能",
+    "price": 81.36,
+    "basePrice": 81.36,
+    "shares": 317045000,
+    "volume": 57673
+  },
+  {
+    "code": "1144",
+    "name": "寶大信鑫元",
+    "sector": "汽車",
+    "price": 106.59,
+    "basePrice": 106.59,
+    "shares": 489430000,
+    "volume": 62811
+  },
+  {
+    "code": "1145",
+    "name": "昇創",
+    "sector": "電子組件",
+    "price": 177.6,
+    "basePrice": 177.6,
+    "shares": 221171000,
+    "volume": 76168
+  },
+  {
+    "code": "1146",
+    "name": "華大廣",
+    "sector": "水泥營造",
+    "price": 105.66,
+    "basePrice": 105.66,
+    "shares": 248453000,
+    "volume": 94522
+  },
+  {
+    "code": "1147",
+    "name": "興鑫宏威",
+    "sector": "鋼鐵",
+    "price": 95.68,
+    "basePrice": 95.68,
+    "shares": 64078000,
+    "volume": 37039
+  },
+  {
+    "code": "1148",
+    "name": "安永耀",
+    "sector": "其他",
+    "price": 10.08,
+    "basePrice": 10.08,
+    "shares": 470361000,
+    "volume": 20920
+  },
+  {
+    "code": "1149",
+    "name": "創星瑞元",
+    "sector": "綠能",
+    "price": 212.48,
+    "basePrice": 212.48,
+    "shares": 386566000,
+    "volume": 87460
+  },
+  {
+    "code": "1150",
+    "name": "元華大光智",
+    "sector": "航運",
+    "price": 22.6,
+    "basePrice": 22.6,
+    "shares": 322361000,
+    "volume": 24233
+  },
+  {
+    "code": "1151",
+    "name": "達鑫耀",
+    "sector": "觀光餐飲",
+    "price": 23.0,
+    "basePrice": 23.0,
+    "shares": 174288000,
+    "volume": 26154
+  },
+  {
+    "code": "1152",
+    "name": "華鑫瑞瑞翔",
+    "sector": "其他",
+    "price": 152.04,
+    "basePrice": 152.04,
+    "shares": 300416000,
+    "volume": 63662
+  },
+  {
+    "code": "1153",
+    "name": "廣星",
+    "sector": "紡織",
+    "price": 182.26,
+    "basePrice": 182.26,
+    "shares": 249282000,
+    "volume": 2343
+  },
+  {
+    "code": "1154",
+    "name": "盛翔興興寶",
+    "sector": "紡織",
+    "price": 129.84,
+    "basePrice": 129.84,
+    "shares": 166844000,
+    "volume": 36822
+  },
+  {
+    "code": "1155",
+    "name": "星鑫新廣順",
+    "sector": "食品",
+    "price": 9.72,
+    "basePrice": 9.72,
+    "shares": 45676000,
+    "volume": 39292
+  },
+  {
+    "code": "1156",
+    "name": "光大聯安",
+    "sector": "半導體",
+    "price": 49.27,
+    "basePrice": 49.27,
+    "shares": 409569000,
+    "volume": 9610
+  },
+  {
+    "code": "1157",
+    "name": "富智",
+    "sector": "生技醫療",
+    "price": 144.67,
+    "basePrice": 144.67,
+    "shares": 489837000,
+    "volume": 9177
+  },
+  {
+    "code": "1158",
+    "name": "順星聯",
+    "sector": "電子組件",
+    "price": 99.75,
+    "basePrice": 99.75,
+    "shares": 258139000,
+    "volume": 14548
+  },
+  {
+    "code": "1159",
+    "name": "泰鼎宏",
+    "sector": "水泥營造",
+    "price": 108.0,
+    "basePrice": 108.0,
+    "shares": 279354000,
+    "volume": 53970
+  },
+  {
+    "code": "1160",
+    "name": "國鼎富",
+    "sector": "航運",
+    "price": 148.0,
+    "basePrice": 148.0,
+    "shares": 452315000,
+    "volume": 94271
+  },
+  {
+    "code": "1161",
+    "name": "元順智信",
+    "sector": "鋼鐵",
+    "price": 13.44,
+    "basePrice": 13.44,
+    "shares": 107365000,
+    "volume": 90815
+  },
+  {
+    "code": "1162",
+    "name": "興泰永",
+    "sector": "光電",
+    "price": 31.05,
+    "basePrice": 31.05,
+    "shares": 151418000,
+    "volume": 28282
+  },
+  {
+    "code": "1163",
+    "name": "創富順",
+    "sector": "運動休閒",
+    "price": 26.8,
+    "basePrice": 26.8,
+    "shares": 436233000,
+    "volume": 75338
+  },
+  {
+    "code": "1164",
+    "name": "成國永聯興",
+    "sector": "光電",
+    "price": 139.04,
+    "basePrice": 139.04,
+    "shares": 155514000,
+    "volume": 14007
+  },
+  {
+    "code": "1165",
+    "name": "光永",
+    "sector": "水泥營造",
+    "price": 35.53,
+    "basePrice": 35.53,
+    "shares": 399452000,
+    "volume": 68322
+  },
+  {
+    "code": "1166",
+    "name": "順威新",
+    "sector": "生技醫療",
+    "price": 349.5,
+    "basePrice": 349.5,
+    "shares": 156024000,
+    "volume": 94458
+  },
+  {
+    "code": "1167",
+    "name": "大鑫富",
+    "sector": "光電",
+    "price": 123.0,
+    "basePrice": 123.0,
+    "shares": 386858000,
+    "volume": 19174
+  },
+  {
+    "code": "1168",
+    "name": "聯成華瑞安",
+    "sector": "觀光餐飲",
+    "price": 96.14,
+    "basePrice": 96.14,
+    "shares": 97163000,
+    "volume": 43251
+  },
+  {
+    "code": "1169",
+    "name": "盛星",
+    "sector": "半導體",
+    "price": 156.48,
+    "basePrice": 156.48,
+    "shares": 491969000,
+    "volume": 16944
+  },
+  {
+    "code": "1170",
+    "name": "成宏威華",
+    "sector": "航運",
+    "price": 344.54,
+    "basePrice": 344.54,
+    "shares": 476295000,
+    "volume": 70198
+  },
+  {
+    "code": "1171",
+    "name": "光國",
+    "sector": "AI概念",
+    "price": 214.5,
+    "basePrice": 214.5,
+    "shares": 487237000,
+    "volume": 19834
+  },
+  {
+    "code": "1172",
+    "name": "達鑫興創",
+    "sector": "運動休閒",
+    "price": 101.25,
+    "basePrice": 101.25,
+    "shares": 477695000,
+    "volume": 63701
+  },
+  {
+    "code": "1173",
+    "name": "星達信安泰",
+    "sector": "鋼鐵",
+    "price": 286.0,
+    "basePrice": 286.0,
+    "shares": 270064000,
+    "volume": 35453
+  },
+  {
+    "code": "1174",
+    "name": "興鼎達富",
+    "sector": "光電",
+    "price": 79.92,
+    "basePrice": 79.92,
+    "shares": 374789000,
+    "volume": 39550
+  },
+  {
+    "code": "1175",
+    "name": "星大",
+    "sector": "AI概念",
+    "price": 170.3,
+    "basePrice": 170.3,
+    "shares": 417342000,
+    "volume": 24249
+  },
+  {
+    "code": "1176",
+    "name": "聯智宏",
+    "sector": "金融保險",
+    "price": 168.6,
+    "basePrice": 168.6,
+    "shares": 137325000,
+    "volume": 86794
+  },
+  {
+    "code": "1177",
+    "name": "國翔元",
+    "sector": "化工",
+    "price": 231.21,
+    "basePrice": 231.21,
+    "shares": 216130000,
+    "volume": 59289
+  },
+  {
+    "code": "1178",
+    "name": "華威昇元",
+    "sector": "觀光餐飲",
+    "price": 89.73,
+    "basePrice": 89.73,
+    "shares": 187742000,
+    "volume": 59620
+  },
+  {
+    "code": "1179",
+    "name": "興創翔盛",
+    "sector": "鋼鐵",
+    "price": 255.3,
+    "basePrice": 255.3,
+    "shares": 5408000,
+    "volume": 39649
+  },
+  {
+    "code": "1180",
+    "name": "成順星",
+    "sector": "AI概念",
+    "price": 30.24,
+    "basePrice": 30.24,
+    "shares": 212948000,
+    "volume": 57712
+  },
+  {
+    "code": "1181",
+    "name": "新鑫聯",
+    "sector": "電腦周邊",
+    "price": 230.24,
+    "basePrice": 230.24,
+    "shares": 453350000,
+    "volume": 25011
+  },
+  {
+    "code": "1182",
+    "name": "鑫智",
+    "sector": "運動休閒",
+    "price": 135.98,
+    "basePrice": 135.98,
+    "shares": 367151000,
+    "volume": 72463
+  },
+  {
+    "code": "1183",
+    "name": "威元順興",
+    "sector": "塑膠",
+    "price": 318.0,
+    "basePrice": 318.0,
+    "shares": 482358000,
+    "volume": 21630
+  },
+  {
+    "code": "1184",
+    "name": "翔寶",
+    "sector": "AI概念",
+    "price": 157.17,
+    "basePrice": 157.17,
+    "shares": 298304000,
+    "volume": 68285
+  },
+  {
+    "code": "1185",
+    "name": "星永智鼎",
+    "sector": "化工",
+    "price": 332.16,
+    "basePrice": 332.16,
+    "shares": 317231000,
+    "volume": 34192
+  },
+  {
+    "code": "1186",
+    "name": "達盛新富寶",
+    "sector": "油電燃料",
+    "price": 154.22,
+    "basePrice": 154.22,
+    "shares": 409907000,
+    "volume": 44965
+  },
+  {
+    "code": "1187",
+    "name": "順國威",
+    "sector": "電機機械",
+    "price": 155.25,
+    "basePrice": 155.25,
+    "shares": 251191000,
+    "volume": 48822
+  },
+  {
+    "code": "1188",
+    "name": "光廣順翔威",
+    "sector": "運動休閒",
+    "price": 75.84,
+    "basePrice": 75.84,
+    "shares": 389455000,
+    "volume": 48915
+  },
+  {
+    "code": "1189",
+    "name": "元信順信",
+    "sector": "電機機械",
+    "price": 237.0,
+    "basePrice": 237.0,
+    "shares": 274727000,
+    "volume": 83427
+  },
+  {
+    "code": "1190",
+    "name": "大鑫鼎聯大",
+    "sector": "觀光餐飲",
+    "price": 68.64,
+    "basePrice": 68.64,
+    "shares": 295364000,
+    "volume": 66955
+  },
+  {
+    "code": "1191",
+    "name": "興寶元",
+    "sector": "水泥營造",
+    "price": 153.4,
+    "basePrice": 153.4,
+    "shares": 144801000,
+    "volume": 62075
+  },
+  {
+    "code": "1192",
+    "name": "安安聯元",
+    "sector": "化工",
+    "price": 151.81,
+    "basePrice": 151.81,
+    "shares": 226016000,
+    "volume": 5816
+  },
+  {
+    "code": "1193",
+    "name": "興成鼎",
+    "sector": "半導體",
+    "price": 142.8,
+    "basePrice": 142.8,
+    "shares": 251250000,
+    "volume": 62721
+  },
+  {
+    "code": "1194",
+    "name": "聯國國成廣",
+    "sector": "其他",
+    "price": 46.2,
+    "basePrice": 46.2,
+    "shares": 355713000,
+    "volume": 53628
+  },
+  {
+    "code": "1195",
+    "name": "順興聯盛瑞",
+    "sector": "水泥營造",
+    "price": 198.0,
+    "basePrice": 198.0,
+    "shares": 343904000,
+    "volume": 39673
+  },
+  {
+    "code": "1196",
+    "name": "新宏安",
+    "sector": "綠能",
+    "price": 154.1,
+    "basePrice": 154.1,
+    "shares": 481906000,
+    "volume": 48796
+  },
+  {
+    "code": "1197",
+    "name": "耀星大創星",
+    "sector": "水泥營造",
+    "price": 81.95,
+    "basePrice": 81.95,
+    "shares": 80507000,
+    "volume": 99189
+  },
+  {
+    "code": "1198",
+    "name": "成國",
+    "sector": "食品",
+    "price": 54.09,
+    "basePrice": 54.09,
+    "shares": 156666000,
+    "volume": 70522
+  },
+  {
+    "code": "1199",
+    "name": "宏華光星鼎",
+    "sector": "化工",
+    "price": 98.34,
+    "basePrice": 98.34,
+    "shares": 239604000,
+    "volume": 27908
+  },
+  {
+    "code": "1200",
+    "name": "翔翔宏光",
+    "sector": "電子組件",
+    "price": 26.4,
+    "basePrice": 26.4,
+    "shares": 154994000,
+    "volume": 59078
+  },
+  {
+    "code": "1201",
+    "name": "成信",
+    "sector": "電機機械",
+    "price": 294.84,
+    "basePrice": 294.84,
+    "shares": 422521000,
+    "volume": 2730
+  },
+  {
+    "code": "1202",
+    "name": "瑞聯智",
+    "sector": "貿易百貨",
+    "price": 346.56,
+    "basePrice": 346.56,
+    "shares": 267735000,
+    "volume": 14228
+  },
+  {
+    "code": "1203",
+    "name": "宏鼎聯永泰",
+    "sector": "航運",
+    "price": 199.32,
+    "basePrice": 199.32,
+    "shares": 355615000,
+    "volume": 76418
+  },
+  {
+    "code": "1204",
+    "name": "順盛信",
+    "sector": "光電",
+    "price": 46.41,
+    "basePrice": 46.41,
+    "shares": 31577000,
+    "volume": 11536
+  },
+  {
+    "code": "1205",
+    "name": "國盛星耀智",
+    "sector": "塑膠",
+    "price": 27.83,
+    "basePrice": 27.83,
+    "shares": 266490000,
+    "volume": 10081
+  },
+  {
+    "code": "1206",
+    "name": "耀智興達",
+    "sector": "金融保險",
+    "price": 246.33,
+    "basePrice": 246.33,
+    "shares": 158712000,
+    "volume": 89303
+  },
+  {
+    "code": "1207",
+    "name": "興智永",
+    "sector": "紡織",
+    "price": 154.28,
+    "basePrice": 154.28,
+    "shares": 306478000,
+    "volume": 86794
+  },
+  {
+    "code": "1208",
+    "name": "星元",
+    "sector": "油電燃料",
+    "price": 273.46,
+    "basePrice": 273.46,
+    "shares": 489122000,
+    "volume": 38908
+  },
+  {
+    "code": "1209",
+    "name": "盛寶光宏",
+    "sector": "塑膠",
+    "price": 59.52,
+    "basePrice": 59.52,
+    "shares": 140414000,
+    "volume": 98470
+  },
+  {
+    "code": "1210",
+    "name": "盛盛盛",
+    "sector": "電子組件",
+    "price": 139.3,
+    "basePrice": 139.3,
+    "shares": 133134000,
+    "volume": 73719
+  },
+  {
+    "code": "1211",
+    "name": "大安元信",
+    "sector": "水泥營造",
+    "price": 131.6,
+    "basePrice": 131.6,
+    "shares": 349572000,
+    "volume": 11002
+  },
+  {
+    "code": "1212",
+    "name": "興國",
+    "sector": "塑膠",
+    "price": 17.85,
+    "basePrice": 17.85,
+    "shares": 358498000,
+    "volume": 38629
+  },
+  {
+    "code": "1213",
+    "name": "光聯鼎華光",
+    "sector": "水泥營造",
+    "price": 99.44,
+    "basePrice": 99.44,
+    "shares": 309725000,
+    "volume": 80983
+  },
+  {
+    "code": "1214",
+    "name": "威安鼎聯",
+    "sector": "電腦周邊",
+    "price": 43.56,
+    "basePrice": 43.56,
+    "shares": 449492000,
+    "volume": 64508
+  },
+  {
+    "code": "1215",
+    "name": "威廣鼎威",
+    "sector": "半導體",
+    "price": 146.2,
+    "basePrice": 146.2,
+    "shares": 270573000,
+    "volume": 54284
+  },
+  {
+    "code": "1216",
+    "name": "富光富智大",
+    "sector": "生技醫療",
+    "price": 44.0,
+    "basePrice": 44.0,
+    "shares": 153016000,
+    "volume": 40758
+  },
+  {
+    "code": "1217",
+    "name": "翔星",
+    "sector": "塑膠",
+    "price": 147.63,
+    "basePrice": 147.63,
+    "shares": 492037000,
+    "volume": 85356
+  },
+  {
+    "code": "1218",
+    "name": "宏盛鼎",
+    "sector": "觀光餐飲",
+    "price": 295.26,
+    "basePrice": 295.26,
+    "shares": 471051000,
+    "volume": 68075
+  },
+  {
+    "code": "1219",
+    "name": "耀鼎",
+    "sector": "化工",
+    "price": 105.44,
+    "basePrice": 105.44,
+    "shares": 108886000,
+    "volume": 18803
+  },
+  {
+    "code": "1220",
+    "name": "國耀興昇安",
+    "sector": "生技醫療",
+    "price": 60.71,
+    "basePrice": 60.71,
+    "shares": 83269000,
+    "volume": 87305
+  },
+  {
+    "code": "1221",
+    "name": "大耀光",
+    "sector": "油電燃料",
+    "price": 96.3,
+    "basePrice": 96.3,
+    "shares": 331493000,
+    "volume": 31905
+  },
+  {
+    "code": "1222",
+    "name": "宏興光大鑫",
+    "sector": "半導體",
+    "price": 14.28,
+    "basePrice": 14.28,
+    "shares": 220341000,
+    "volume": 41182
+  },
+  {
+    "code": "1223",
+    "name": "泰廣",
+    "sector": "紡織",
+    "price": 64.96,
+    "basePrice": 64.96,
+    "shares": 457418000,
+    "volume": 33678
+  },
+  {
+    "code": "1224",
+    "name": "廣大",
+    "sector": "汽車",
+    "price": 79.92,
+    "basePrice": 79.92,
+    "shares": 136802000,
+    "volume": 22880
+  },
+  {
+    "code": "1225",
+    "name": "鼎寶信泰",
+    "sector": "綠能",
+    "price": 15.0,
+    "basePrice": 15.0,
+    "shares": 126232000,
+    "volume": 99434
+  },
+  {
+    "code": "1226",
+    "name": "鑫永威成",
+    "sector": "油電燃料",
+    "price": 233.76,
+    "basePrice": 233.76,
+    "shares": 446895000,
+    "volume": 13327
+  },
+  {
+    "code": "1227",
+    "name": "翔智成",
+    "sector": "觀光餐飲",
+    "price": 174.6,
+    "basePrice": 174.6,
+    "shares": 490661000,
+    "volume": 77547
+  },
+  {
+    "code": "1228",
+    "name": "鑫盛",
+    "sector": "電機機械",
+    "price": 157.32,
+    "basePrice": 157.32,
+    "shares": 136882000,
+    "volume": 2567
+  },
+  {
+    "code": "1229",
+    "name": "元鑫",
+    "sector": "鋼鐵",
+    "price": 326.25,
+    "basePrice": 326.25,
+    "shares": 402587000,
+    "volume": 33756
+  },
+  {
+    "code": "1230",
+    "name": "永安",
+    "sector": "光電",
+    "price": 326.14,
+    "basePrice": 326.14,
+    "shares": 391236000,
+    "volume": 11904
+  },
+  {
+    "code": "1231",
+    "name": "興寶鑫智",
+    "sector": "AI概念",
+    "price": 29.26,
+    "basePrice": 29.26,
+    "shares": 156619000,
+    "volume": 72457
+  },
+  {
+    "code": "1232",
+    "name": "順星瑞泰廣",
+    "sector": "水泥營造",
+    "price": 89.68,
+    "basePrice": 89.68,
+    "shares": 491477000,
+    "volume": 66200
+  },
+  {
+    "code": "1233",
+    "name": "成星新國鑫",
+    "sector": "半導體",
+    "price": 205.39,
+    "basePrice": 205.39,
+    "shares": 55696000,
+    "volume": 14018
+  },
+  {
+    "code": "1234",
+    "name": "廣順成",
+    "sector": "汽車",
+    "price": 30.06,
+    "basePrice": 30.06,
+    "shares": 343229000,
+    "volume": 96076
+  },
+  {
+    "code": "1235",
+    "name": "智寶",
+    "sector": "貿易百貨",
+    "price": 98.12,
+    "basePrice": 98.12,
+    "shares": 49791000,
+    "volume": 40355
+  },
+  {
+    "code": "1236",
+    "name": "翔聯智",
+    "sector": "貿易百貨",
+    "price": 120.53,
+    "basePrice": 120.53,
+    "shares": 5401000,
+    "volume": 90824
+  },
+  {
+    "code": "1237",
+    "name": "鼎安廣泰聯",
+    "sector": "航運",
+    "price": 111.72,
+    "basePrice": 111.72,
+    "shares": 320253000,
+    "volume": 70682
+  },
+  {
+    "code": "1238",
+    "name": "大瑞元信",
+    "sector": "觀光餐飲",
+    "price": 142.66,
+    "basePrice": 142.66,
+    "shares": 147317000,
+    "volume": 42025
+  },
+  {
+    "code": "1239",
+    "name": "永信泰創",
+    "sector": "綠能",
+    "price": 35.04,
+    "basePrice": 35.04,
+    "shares": 174142000,
+    "volume": 43824
+  },
+  {
+    "code": "1240",
+    "name": "成成威安",
+    "sector": "運動休閒",
+    "price": 92.7,
+    "basePrice": 92.7,
+    "shares": 31980000,
+    "volume": 44788
+  },
+  {
+    "code": "1241",
+    "name": "鼎創安",
+    "sector": "半導體",
+    "price": 121.38,
+    "basePrice": 121.38,
+    "shares": 440374000,
+    "volume": 87870
+  },
+  {
+    "code": "1242",
+    "name": "富瑞廣翔翔",
+    "sector": "綠能",
+    "price": 181.92,
+    "basePrice": 181.92,
+    "shares": 167356000,
+    "volume": 80480
+  },
+  {
+    "code": "1243",
+    "name": "寶聯安",
+    "sector": "食品",
+    "price": 253.65,
+    "basePrice": 253.65,
+    "shares": 231691000,
+    "volume": 69817
+  },
+  {
+    "code": "1244",
+    "name": "鼎星翔宏",
+    "sector": "運動休閒",
+    "price": 202.73,
+    "basePrice": 202.73,
+    "shares": 36312000,
+    "volume": 26008
+  },
+  {
+    "code": "1245",
+    "name": "昇大富",
+    "sector": "AI概念",
+    "price": 16.88,
+    "basePrice": 16.88,
+    "shares": 341037000,
+    "volume": 81708
+  },
+  {
+    "code": "1246",
+    "name": "瑞瑞安光",
+    "sector": "水泥營造",
+    "price": 37.4,
+    "basePrice": 37.4,
+    "shares": 19290000,
+    "volume": 49323
+  },
+  {
+    "code": "1247",
+    "name": "鼎威",
+    "sector": "電腦周邊",
+    "price": 186.81,
+    "basePrice": 186.81,
+    "shares": 311987000,
+    "volume": 59638
+  },
+  {
+    "code": "1248",
+    "name": "寶永威",
+    "sector": "半導體",
+    "price": 29.51,
+    "basePrice": 29.51,
+    "shares": 175787000,
+    "volume": 29152
+  },
+  {
+    "code": "1249",
+    "name": "寶信成大鑫",
+    "sector": "油電燃料",
+    "price": 39.8,
+    "basePrice": 39.8,
+    "shares": 465326000,
+    "volume": 31240
+  },
+  {
+    "code": "1250",
+    "name": "盛新新",
+    "sector": "觀光餐飲",
+    "price": 308.44,
+    "basePrice": 308.44,
+    "shares": 329086000,
+    "volume": 92848
+  },
+  {
+    "code": "1251",
+    "name": "大翔",
+    "sector": "AI概念",
+    "price": 67.5,
+    "basePrice": 67.5,
+    "shares": 363832000,
+    "volume": 92457
+  },
+  {
+    "code": "1252",
+    "name": "宏泰興盛宏",
+    "sector": "貿易百貨",
+    "price": 22.96,
+    "basePrice": 22.96,
+    "shares": 122243000,
+    "volume": 98917
+  },
+  {
+    "code": "1253",
+    "name": "元星",
+    "sector": "水泥營造",
+    "price": 114.48,
+    "basePrice": 114.48,
+    "shares": 408763000,
+    "volume": 67676
+  },
+  {
+    "code": "1254",
+    "name": "永順元昇瑞",
+    "sector": "其他",
+    "price": 124.2,
+    "basePrice": 124.2,
+    "shares": 491436000,
+    "volume": 58946
+  },
+  {
+    "code": "1255",
+    "name": "聯大成昇",
+    "sector": "水泥營造",
+    "price": 341.75,
+    "basePrice": 341.75,
+    "shares": 229138000,
+    "volume": 43100
+  },
+  {
+    "code": "1256",
+    "name": "興鼎寶國",
+    "sector": "水泥營造",
+    "price": 139.2,
+    "basePrice": 139.2,
+    "shares": 208449000,
+    "volume": 89923
+  },
+  {
+    "code": "1257",
+    "name": "鑫寶創智",
+    "sector": "金融保險",
+    "price": 212.22,
+    "basePrice": 212.22,
+    "shares": 141571000,
+    "volume": 53156
+  },
+  {
+    "code": "1258",
+    "name": "國安國",
+    "sector": "電腦周邊",
+    "price": 40.24,
+    "basePrice": 40.24,
+    "shares": 224311000,
+    "volume": 4951
+  },
+  {
+    "code": "1259",
+    "name": "成元智威耀",
+    "sector": "半導體",
+    "price": 19.11,
+    "basePrice": 19.11,
+    "shares": 123053000,
+    "volume": 49518
+  },
+  {
+    "code": "1260",
+    "name": "星大創聯",
+    "sector": "綠能",
+    "price": 194.18,
+    "basePrice": 194.18,
+    "shares": 416886000,
+    "volume": 55851
+  },
+  {
+    "code": "1261",
+    "name": "達順星",
+    "sector": "觀光餐飲",
+    "price": 43.24,
+    "basePrice": 43.24,
+    "shares": 65343000,
+    "volume": 16879
+  },
+  {
+    "code": "1262",
+    "name": "泰達宏成",
+    "sector": "汽車",
+    "price": 271.89,
+    "basePrice": 271.89,
+    "shares": 38496000,
+    "volume": 65170
+  },
+  {
+    "code": "1263",
+    "name": "廣泰鑫富",
+    "sector": "運動休閒",
+    "price": 128.04,
+    "basePrice": 128.04,
+    "shares": 35742000,
+    "volume": 77859
+  },
+  {
+    "code": "1264",
+    "name": "華信元大昇",
+    "sector": "生技醫療",
+    "price": 51.75,
+    "basePrice": 51.75,
+    "shares": 265956000,
+    "volume": 22868
+  },
+  {
+    "code": "1265",
+    "name": "興順耀宏昇",
+    "sector": "光電",
+    "price": 89.05,
+    "basePrice": 89.05,
+    "shares": 23582000,
+    "volume": 48818
+  },
+  {
+    "code": "1266",
+    "name": "興安寶成",
+    "sector": "運動休閒",
+    "price": 155.12,
+    "basePrice": 155.12,
+    "shares": 449933000,
+    "volume": 14229
+  },
+  {
+    "code": "1267",
+    "name": "成達國信",
+    "sector": "光電",
+    "price": 194.58,
+    "basePrice": 194.58,
+    "shares": 213699000,
+    "volume": 31156
+  },
+  {
+    "code": "1268",
+    "name": "鑫興寶翔",
+    "sector": "油電燃料",
+    "price": 291.72,
+    "basePrice": 291.72,
+    "shares": 168174000,
+    "volume": 15380
+  },
+  {
+    "code": "1269",
+    "name": "信耀順元華",
+    "sector": "塑膠",
+    "price": 83.03,
+    "basePrice": 83.03,
+    "shares": 373238000,
+    "volume": 57179
+  },
+  {
+    "code": "1270",
+    "name": "瑞瑞",
+    "sector": "電機機械",
+    "price": 168.98,
+    "basePrice": 168.98,
+    "shares": 159020000,
+    "volume": 13527
+  },
+  {
+    "code": "1271",
+    "name": "大成鼎",
+    "sector": "光電",
+    "price": 110.96,
+    "basePrice": 110.96,
+    "shares": 39852000,
+    "volume": 19698
+  },
+  {
+    "code": "1272",
+    "name": "星昇",
+    "sector": "電子組件",
+    "price": 217.35,
+    "basePrice": 217.35,
+    "shares": 197428000,
+    "volume": 29675
+  },
+  {
+    "code": "1273",
+    "name": "成富泰",
+    "sector": "汽車",
+    "price": 105.95,
+    "basePrice": 105.95,
+    "shares": 222048000,
+    "volume": 91077
+  },
+  {
+    "code": "1274",
+    "name": "盛聯鑫昇",
+    "sector": "綠能",
+    "price": 85.08,
+    "basePrice": 85.08,
+    "shares": 42203000,
+    "volume": 67871
+  },
+  {
+    "code": "1275",
+    "name": "泰寶星新鼎",
+    "sector": "航運",
+    "price": 16.15,
+    "basePrice": 16.15,
+    "shares": 189487000,
+    "volume": 15590
+  },
+  {
+    "code": "1276",
+    "name": "成聯",
+    "sector": "其他",
+    "price": 44.0,
+    "basePrice": 44.0,
+    "shares": 439685000,
+    "volume": 21687
+  },
+  {
+    "code": "1277",
+    "name": "昇達信創",
+    "sector": "電機機械",
+    "price": 204.25,
+    "basePrice": 204.25,
+    "shares": 88351000,
+    "volume": 39719
+  },
+  {
+    "code": "1278",
+    "name": "泰盛智國光",
+    "sector": "油電燃料",
+    "price": 87.75,
+    "basePrice": 87.75,
+    "shares": 281755000,
+    "volume": 87095
+  },
+  {
+    "code": "1279",
+    "name": "鑫翔星瑞",
+    "sector": "塑膠",
+    "price": 127.01,
+    "basePrice": 127.01,
+    "shares": 314500000,
+    "volume": 83007
+  },
+  {
+    "code": "1280",
+    "name": "永耀威聯",
+    "sector": "生技醫療",
+    "price": 113.44,
+    "basePrice": 113.44,
+    "shares": 81843000,
+    "volume": 30310
+  },
+  {
+    "code": "1281",
+    "name": "順元達信",
+    "sector": "塑膠",
+    "price": 59.11,
+    "basePrice": 59.11,
+    "shares": 75748000,
+    "volume": 69374
+  },
+  {
+    "code": "1282",
+    "name": "寶鑫宏",
+    "sector": "觀光餐飲",
+    "price": 118.08,
+    "basePrice": 118.08,
+    "shares": 445050000,
+    "volume": 8335
+  },
+  {
+    "code": "1283",
+    "name": "永達大",
+    "sector": "綠能",
+    "price": 137.0,
+    "basePrice": 137.0,
+    "shares": 170286000,
+    "volume": 66414
+  },
+  {
+    "code": "1284",
+    "name": "信鑫翔",
+    "sector": "光電",
+    "price": 23.04,
+    "basePrice": 23.04,
+    "shares": 459789000,
+    "volume": 61946
+  },
+  {
+    "code": "1285",
+    "name": "耀星信順信",
+    "sector": "航運",
+    "price": 126.31,
+    "basePrice": 126.31,
+    "shares": 460636000,
+    "volume": 26716
+  },
+  {
+    "code": "1286",
+    "name": "宏廣宏",
+    "sector": "塑膠",
+    "price": 92.1,
+    "basePrice": 92.1,
+    "shares": 379990000,
+    "volume": 96087
+  },
+  {
+    "code": "1287",
+    "name": "盛盛",
+    "sector": "航運",
+    "price": 248.17,
+    "basePrice": 248.17,
+    "shares": 365712000,
+    "volume": 88812
+  },
+  {
+    "code": "1288",
+    "name": "瑞國鑫盛",
+    "sector": "食品",
+    "price": 86.8,
+    "basePrice": 86.8,
+    "shares": 24607000,
+    "volume": 75142
+  },
+  {
+    "code": "1289",
+    "name": "富鼎永",
+    "sector": "油電燃料",
+    "price": 144.5,
+    "basePrice": 144.5,
+    "shares": 489723000,
+    "volume": 84750
+  },
+  {
+    "code": "1290",
+    "name": "泰宏新",
+    "sector": "貿易百貨",
+    "price": 227.6,
+    "basePrice": 227.6,
+    "shares": 294926000,
+    "volume": 77644
+  },
+  {
+    "code": "1291",
+    "name": "盛安光泰",
+    "sector": "紡織",
+    "price": 65.93,
+    "basePrice": 65.93,
+    "shares": 378809000,
+    "volume": 83472
+  },
+  {
+    "code": "1292",
+    "name": "國達達信",
+    "sector": "水泥營造",
+    "price": 287.76,
+    "basePrice": 287.76,
+    "shares": 56151000,
+    "volume": 9752
+  },
+  {
+    "code": "1293",
+    "name": "聯安盛翔",
+    "sector": "汽車",
+    "price": 136.89,
+    "basePrice": 136.89,
+    "shares": 374460000,
+    "volume": 39298
+  },
+  {
+    "code": "1294",
+    "name": "興光",
+    "sector": "金融保險",
+    "price": 165.0,
+    "basePrice": 165.0,
+    "shares": 35015000,
+    "volume": 81068
+  },
+  {
+    "code": "1295",
+    "name": "華鼎瑞",
+    "sector": "電子組件",
+    "price": 106.74,
+    "basePrice": 106.74,
+    "shares": 76988000,
+    "volume": 86707
+  },
+  {
+    "code": "1296",
+    "name": "智泰昇盛耀",
+    "sector": "運動休閒",
+    "price": 105.0,
+    "basePrice": 105.0,
+    "shares": 253074000,
+    "volume": 57966
+  },
+  {
+    "code": "1297",
+    "name": "鼎新順耀聯",
+    "sector": "食品",
+    "price": 27.2,
+    "basePrice": 27.2,
+    "shares": 241884000,
+    "volume": 45042
+  },
+  {
+    "code": "1298",
+    "name": "聯耀華成達",
+    "sector": "汽車",
+    "price": 100.08,
+    "basePrice": 100.08,
+    "shares": 64939000,
+    "volume": 4916
+  },
+  {
+    "code": "1299",
+    "name": "國宏鼎元",
+    "sector": "塑膠",
+    "price": 219.2,
+    "basePrice": 219.2,
+    "shares": 385763000,
+    "volume": 64661
+  },
+  {
+    "code": "1300",
+    "name": "元達",
+    "sector": "綠能",
+    "price": 95.7,
+    "basePrice": 95.7,
+    "shares": 404522000,
+    "volume": 14604
+  },
+  {
+    "code": "1301",
+    "name": "華星元成",
+    "sector": "電機機械",
+    "price": 19.95,
+    "basePrice": 19.95,
+    "shares": 347021000,
+    "volume": 64422
+  },
+  {
+    "code": "1302",
+    "name": "順廣安鼎寶",
+    "sector": "綠能",
+    "price": 89.04,
+    "basePrice": 89.04,
+    "shares": 39746000,
+    "volume": 73016
+  },
+  {
+    "code": "1303",
+    "name": "聯安威",
+    "sector": "其他",
+    "price": 73.64,
+    "basePrice": 73.64,
+    "shares": 98952000,
+    "volume": 3609
+  },
+  {
+    "code": "1304",
+    "name": "寶昇瑞",
+    "sector": "航運",
+    "price": 23.66,
+    "basePrice": 23.66,
+    "shares": 295858000,
+    "volume": 97508
+  },
+  {
+    "code": "1305",
+    "name": "星泰",
+    "sector": "貿易百貨",
+    "price": 177.72,
+    "basePrice": 177.72,
+    "shares": 24811000,
+    "volume": 43986
+  },
+  {
+    "code": "1306",
+    "name": "興光宏新創",
+    "sector": "航運",
+    "price": 68.31,
+    "basePrice": 68.31,
+    "shares": 155168000,
+    "volume": 83631
+  },
+  {
+    "code": "1307",
+    "name": "安永威宏",
+    "sector": "AI概念",
+    "price": 185.4,
+    "basePrice": 185.4,
+    "shares": 243062000,
+    "volume": 51459
+  },
+  {
+    "code": "1308",
+    "name": "國元創",
+    "sector": "貿易百貨",
+    "price": 63.54,
+    "basePrice": 63.54,
+    "shares": 123367000,
+    "volume": 52144
+  },
+  {
+    "code": "1309",
+    "name": "鑫昇成大",
+    "sector": "電機機械",
+    "price": 165.8,
+    "basePrice": 165.8,
+    "shares": 83045000,
+    "volume": 85474
+  },
+  {
+    "code": "1310",
+    "name": "富鑫光順",
+    "sector": "觀光餐飲",
+    "price": 176.82,
+    "basePrice": 176.82,
+    "shares": 16573000,
+    "volume": 54742
+  },
+  {
+    "code": "1311",
+    "name": "新星昇創",
+    "sector": "觀光餐飲",
+    "price": 83.34,
+    "basePrice": 83.34,
+    "shares": 418181000,
+    "volume": 80484
+  },
+  {
+    "code": "1312",
+    "name": "順華星威",
+    "sector": "食品",
+    "price": 31.6,
+    "basePrice": 31.6,
+    "shares": 323213000,
+    "volume": 49284
+  },
+  {
+    "code": "1313",
+    "name": "安達華",
+    "sector": "航運",
+    "price": 170.55,
+    "basePrice": 170.55,
+    "shares": 26699000,
+    "volume": 93346
+  },
+  {
+    "code": "1314",
+    "name": "耀宏國",
+    "sector": "鋼鐵",
+    "price": 61.32,
+    "basePrice": 61.32,
+    "shares": 16363000,
+    "volume": 38988
+  },
+  {
+    "code": "1315",
+    "name": "元興成順信",
+    "sector": "食品",
+    "price": 112.28,
+    "basePrice": 112.28,
+    "shares": 143897000,
+    "volume": 98198
+  },
+  {
+    "code": "1316",
+    "name": "創智盛",
+    "sector": "電子組件",
+    "price": 58.19,
+    "basePrice": 58.19,
+    "shares": 58396000,
+    "volume": 24077
+  },
+  {
+    "code": "1317",
+    "name": "威鑫",
+    "sector": "紡織",
+    "price": 171.45,
+    "basePrice": 171.45,
+    "shares": 391438000,
+    "volume": 81947
+  },
+  {
+    "code": "1318",
+    "name": "華富",
+    "sector": "電腦周邊",
+    "price": 196.5,
+    "basePrice": 196.5,
+    "shares": 388015000,
+    "volume": 7650
+  },
+  {
+    "code": "1319",
+    "name": "盛光光光永",
+    "sector": "紡織",
+    "price": 141.6,
+    "basePrice": 141.6,
+    "shares": 174436000,
+    "volume": 78762
+  },
+  {
+    "code": "1320",
+    "name": "鼎富元星興",
+    "sector": "運動休閒",
+    "price": 127.0,
+    "basePrice": 127.0,
+    "shares": 273319000,
+    "volume": 19946
+  },
+  {
+    "code": "1321",
+    "name": "達國安",
+    "sector": "電子組件",
+    "price": 138.46,
+    "basePrice": 138.46,
+    "shares": 447895000,
+    "volume": 37815
+  },
+  {
+    "code": "1322",
+    "name": "元寶泰瑞",
+    "sector": "光電",
+    "price": 99.04,
+    "basePrice": 99.04,
+    "shares": 144994000,
+    "volume": 91051
+  },
+  {
+    "code": "1323",
+    "name": "華華",
+    "sector": "水泥營造",
+    "price": 13.65,
+    "basePrice": 13.65,
+    "shares": 315830000,
+    "volume": 83853
+  },
+  {
+    "code": "1324",
+    "name": "威瑞華永順",
+    "sector": "光電",
+    "price": 326.16,
+    "basePrice": 326.16,
+    "shares": 95247000,
+    "volume": 65010
+  },
+  {
+    "code": "1325",
+    "name": "耀盛鼎廣",
+    "sector": "半導體",
+    "price": 9.8,
+    "basePrice": 9.8,
+    "shares": 215501000,
+    "volume": 96969
+  },
+  {
+    "code": "1326",
+    "name": "創泰新",
+    "sector": "水泥營造",
+    "price": 27.15,
+    "basePrice": 27.15,
+    "shares": 217632000,
+    "volume": 1603
+  },
+  {
+    "code": "1327",
+    "name": "大創翔",
+    "sector": "半導體",
+    "price": 286.02,
+    "basePrice": 286.02,
+    "shares": 350571000,
+    "volume": 84120
+  },
+  {
+    "code": "1328",
+    "name": "成國",
+    "sector": "其他",
+    "price": 155.1,
+    "basePrice": 155.1,
+    "shares": 453140000,
+    "volume": 48449
+  },
+  {
+    "code": "1329",
+    "name": "寶廣富宏廣",
+    "sector": "貿易百貨",
+    "price": 125.86,
+    "basePrice": 125.86,
+    "shares": 258001000,
+    "volume": 73419
+  },
+  {
+    "code": "1330",
+    "name": "興智",
+    "sector": "電機機械",
+    "price": 106.2,
+    "basePrice": 106.2,
+    "shares": 86764000,
+    "volume": 3393
+  },
+  {
+    "code": "1331",
+    "name": "聯大智",
+    "sector": "汽車",
+    "price": 322.32,
+    "basePrice": 322.32,
+    "shares": 198646000,
+    "volume": 39325
+  },
+  {
+    "code": "1332",
+    "name": "安鑫光華廣",
+    "sector": "食品",
+    "price": 200.77,
+    "basePrice": 200.77,
+    "shares": 474741000,
+    "volume": 53418
+  },
+  {
+    "code": "1333",
+    "name": "創富",
+    "sector": "光電",
+    "price": 81.38,
+    "basePrice": 81.38,
+    "shares": 163294000,
+    "volume": 57936
+  },
+  {
+    "code": "1334",
+    "name": "安聯",
+    "sector": "航運",
+    "price": 78.4,
+    "basePrice": 78.4,
+    "shares": 429225000,
+    "volume": 84512
+  },
+  {
+    "code": "1335",
+    "name": "新順華光",
+    "sector": "運動休閒",
+    "price": 199.35,
+    "basePrice": 199.35,
+    "shares": 400516000,
+    "volume": 52488
+  },
+  {
+    "code": "1336",
+    "name": "鼎新",
+    "sector": "汽車",
+    "price": 374.25,
+    "basePrice": 374.25,
+    "shares": 488173000,
+    "volume": 30849
+  },
+  {
+    "code": "1337",
+    "name": "國元安大",
+    "sector": "電子組件",
+    "price": 134.4,
+    "basePrice": 134.4,
+    "shares": 477620000,
+    "volume": 73802
+  },
+  {
+    "code": "1338",
+    "name": "昇新大",
+    "sector": "運動休閒",
+    "price": 82.72,
+    "basePrice": 82.72,
+    "shares": 497078000,
+    "volume": 8358
+  },
+  {
+    "code": "1339",
+    "name": "國宏",
+    "sector": "光電",
+    "price": 99.96,
+    "basePrice": 99.96,
+    "shares": 242326000,
+    "volume": 72026
+  },
+  {
+    "code": "1340",
+    "name": "宏光盛安寶",
+    "sector": "AI概念",
+    "price": 75.12,
+    "basePrice": 75.12,
+    "shares": 208540000,
+    "volume": 10257
+  },
+  {
+    "code": "1341",
+    "name": "瑞大安廣昇",
+    "sector": "電腦周邊",
+    "price": 82.72,
+    "basePrice": 82.72,
+    "shares": 370585000,
+    "volume": 32033
+  },
+  {
+    "code": "1342",
+    "name": "光昇",
+    "sector": "航運",
+    "price": 225.6,
+    "basePrice": 225.6,
+    "shares": 184181000,
+    "volume": 6545
+  },
+  {
+    "code": "1343",
+    "name": "創信翔達國",
+    "sector": "汽車",
+    "price": 250.58,
+    "basePrice": 250.58,
+    "shares": 218106000,
+    "volume": 24390
+  },
+  {
+    "code": "1344",
+    "name": "信信光宏鼎",
+    "sector": "運動休閒",
+    "price": 226.38,
+    "basePrice": 226.38,
+    "shares": 34479000,
+    "volume": 30823
+  },
+  {
+    "code": "1345",
+    "name": "廣耀智成國",
+    "sector": "半導體",
+    "price": 149.52,
+    "basePrice": 149.52,
+    "shares": 298726000,
+    "volume": 15819
+  },
+  {
+    "code": "1346",
+    "name": "成星泰",
+    "sector": "金融保險",
+    "price": 189.6,
+    "basePrice": 189.6,
+    "shares": 429196000,
+    "volume": 96720
+  },
+  {
+    "code": "1347",
+    "name": "國大",
+    "sector": "鋼鐵",
+    "price": 145.2,
+    "basePrice": 145.2,
+    "shares": 374317000,
+    "volume": 31453
+  },
+  {
+    "code": "1348",
+    "name": "達威威永鑫",
+    "sector": "其他",
+    "price": 325.5,
+    "basePrice": 325.5,
+    "shares": 126062000,
+    "volume": 98605
+  },
+  {
+    "code": "1349",
+    "name": "星創順",
+    "sector": "塑膠",
+    "price": 124.32,
+    "basePrice": 124.32,
+    "shares": 285456000,
+    "volume": 46741
+  },
+  {
+    "code": "1350",
+    "name": "興富",
+    "sector": "生技醫療",
+    "price": 328.5,
+    "basePrice": 328.5,
+    "shares": 186613000,
+    "volume": 15174
+  },
+  {
+    "code": "1351",
+    "name": "新寶",
+    "sector": "化工",
+    "price": 146.8,
+    "basePrice": 146.8,
+    "shares": 103422000,
+    "volume": 20723
+  },
+  {
+    "code": "1352",
+    "name": "智廣廣翔",
+    "sector": "油電燃料",
+    "price": 80.5,
+    "basePrice": 80.5,
+    "shares": 134427000,
+    "volume": 56111
+  },
+  {
+    "code": "1353",
+    "name": "盛廣鼎泰",
+    "sector": "汽車",
+    "price": 117.39,
+    "basePrice": 117.39,
+    "shares": 358084000,
+    "volume": 80499
+  },
+  {
+    "code": "1354",
+    "name": "宏國星",
+    "sector": "光電",
+    "price": 208.5,
+    "basePrice": 208.5,
+    "shares": 83372000,
+    "volume": 54637
+  },
+  {
+    "code": "1355",
+    "name": "永光",
+    "sector": "貿易百貨",
+    "price": 170.5,
+    "basePrice": 170.5,
+    "shares": 70744000,
+    "volume": 46068
+  },
+  {
+    "code": "1356",
+    "name": "智智廣",
+    "sector": "綠能",
+    "price": 193.2,
+    "basePrice": 193.2,
+    "shares": 495423000,
+    "volume": 13573
+  },
+  {
+    "code": "1357",
+    "name": "鑫創",
+    "sector": "航運",
+    "price": 126.75,
+    "basePrice": 126.75,
+    "shares": 68065000,
+    "volume": 95881
+  },
+  {
+    "code": "1358",
+    "name": "盛信大光大",
+    "sector": "水泥營造",
+    "price": 117.0,
+    "basePrice": 117.0,
+    "shares": 325950000,
+    "volume": 90185
+  },
+  {
+    "code": "1359",
+    "name": "星華聯永",
+    "sector": "光電",
+    "price": 185.76,
+    "basePrice": 185.76,
+    "shares": 115417000,
+    "volume": 13989
+  },
+  {
+    "code": "1360",
+    "name": "聯智興達",
+    "sector": "綠能",
+    "price": 149.85,
+    "basePrice": 149.85,
+    "shares": 302817000,
+    "volume": 65199
+  },
+  {
+    "code": "1361",
+    "name": "華耀廣興",
+    "sector": "食品",
+    "price": 42.3,
+    "basePrice": 42.3,
+    "shares": 314706000,
+    "volume": 50629
+  },
+  {
+    "code": "1362",
+    "name": "華華興星",
+    "sector": "AI概念",
+    "price": 292.53,
+    "basePrice": 292.53,
+    "shares": 334720000,
+    "volume": 99888
+  },
+  {
+    "code": "1363",
+    "name": "光永翔泰",
+    "sector": "電子組件",
+    "price": 136.71,
+    "basePrice": 136.71,
+    "shares": 428571000,
+    "volume": 76864
+  },
+  {
+    "code": "1364",
+    "name": "盛廣永創",
+    "sector": "紡織",
+    "price": 71.12,
+    "basePrice": 71.12,
+    "shares": 496474000,
+    "volume": 66100
+  },
+  {
+    "code": "1365",
+    "name": "大瑞信",
+    "sector": "綠能",
+    "price": 21.68,
+    "basePrice": 21.68,
+    "shares": 261773000,
+    "volume": 2879
+  },
+  {
+    "code": "1366",
+    "name": "興聯",
+    "sector": "AI概念",
+    "price": 73.08,
+    "basePrice": 73.08,
+    "shares": 492610000,
+    "volume": 74139
+  },
+  {
+    "code": "1367",
+    "name": "泰華安聯",
+    "sector": "AI概念",
+    "price": 105.2,
+    "basePrice": 105.2,
+    "shares": 276351000,
+    "volume": 17797
+  },
+  {
+    "code": "1368",
+    "name": "大鼎耀華智",
+    "sector": "紡織",
+    "price": 117.9,
+    "basePrice": 117.9,
+    "shares": 108419000,
+    "volume": 53845
+  },
+  {
+    "code": "1369",
+    "name": "鼎富成廣",
+    "sector": "金融保險",
+    "price": 12.73,
+    "basePrice": 12.73,
+    "shares": 241715000,
+    "volume": 62384
+  },
+  {
+    "code": "1370",
+    "name": "星安聯順星",
+    "sector": "食品",
+    "price": 359.04,
+    "basePrice": 359.04,
+    "shares": 433065000,
+    "volume": 23445
+  },
+  {
+    "code": "1371",
+    "name": "安信",
+    "sector": "AI概念",
+    "price": 27.3,
+    "basePrice": 27.3,
+    "shares": 81580000,
+    "volume": 24800
+  },
+  {
+    "code": "1372",
+    "name": "元元信",
+    "sector": "塑膠",
+    "price": 25.19,
+    "basePrice": 25.19,
+    "shares": 172670000,
+    "volume": 84107
+  },
+  {
+    "code": "1373",
+    "name": "鼎創光瑞",
+    "sector": "光電",
+    "price": 203.5,
+    "basePrice": 203.5,
+    "shares": 348769000,
+    "volume": 93187
+  },
+  {
+    "code": "1374",
+    "name": "國廣富",
+    "sector": "貿易百貨",
+    "price": 182.21,
+    "basePrice": 182.21,
+    "shares": 279685000,
+    "volume": 10185
+  },
+  {
+    "code": "1375",
+    "name": "達泰瑞",
+    "sector": "光電",
+    "price": 79.29,
+    "basePrice": 79.29,
+    "shares": 441784000,
+    "volume": 13075
+  },
+  {
+    "code": "1376",
+    "name": "創泰順光成",
+    "sector": "電子組件",
+    "price": 18.24,
+    "basePrice": 18.24,
+    "shares": 228575000,
+    "volume": 32669
+  },
+  {
+    "code": "1377",
+    "name": "翔達興",
+    "sector": "水泥營造",
+    "price": 113.92,
+    "basePrice": 113.92,
+    "shares": 305890000,
+    "volume": 14593
+  },
+  {
+    "code": "1378",
+    "name": "耀光元泰新",
+    "sector": "電機機械",
+    "price": 261.6,
+    "basePrice": 261.6,
+    "shares": 355370000,
+    "volume": 97409
+  },
+  {
+    "code": "1379",
+    "name": "國成宏翔",
+    "sector": "電子組件",
+    "price": 66.9,
+    "basePrice": 66.9,
+    "shares": 7763000,
+    "volume": 32790
+  },
+  {
+    "code": "1380",
+    "name": "大昇宏宏聯",
+    "sector": "油電燃料",
+    "price": 205.2,
+    "basePrice": 205.2,
+    "shares": 313134000,
+    "volume": 31099
+  },
+  {
+    "code": "1381",
+    "name": "宏興",
+    "sector": "塑膠",
+    "price": 190.35,
+    "basePrice": 190.35,
+    "shares": 225600000,
+    "volume": 16031
+  },
+  {
+    "code": "1382",
+    "name": "威鼎創鑫",
+    "sector": "塑膠",
+    "price": 94.99,
+    "basePrice": 94.99,
+    "shares": 349908000,
+    "volume": 93429
+  },
+  {
+    "code": "1383",
+    "name": "鼎翔瑞",
+    "sector": "汽車",
+    "price": 280.77,
+    "basePrice": 280.77,
+    "shares": 297558000,
+    "volume": 54087
+  },
+  {
+    "code": "1384",
+    "name": "元耀鼎成",
+    "sector": "綠能",
+    "price": 126.61,
+    "basePrice": 126.61,
+    "shares": 311442000,
+    "volume": 41799
+  },
+  {
+    "code": "1385",
+    "name": "大泰聯鼎",
+    "sector": "電子組件",
+    "price": 155.84,
+    "basePrice": 155.84,
+    "shares": 369034000,
+    "volume": 92325
+  },
+  {
+    "code": "1386",
+    "name": "泰華",
+    "sector": "油電燃料",
+    "price": 164.32,
+    "basePrice": 164.32,
+    "shares": 432447000,
+    "volume": 79473
+  },
+  {
+    "code": "1387",
+    "name": "成智昇",
+    "sector": "汽車",
+    "price": 89.64,
+    "basePrice": 89.64,
+    "shares": 329534000,
+    "volume": 56628
+  },
+  {
+    "code": "1388",
+    "name": "昇鼎富富昇",
+    "sector": "紡織",
+    "price": 266.6,
+    "basePrice": 266.6,
+    "shares": 338254000,
+    "volume": 67771
+  },
+  {
+    "code": "1389",
+    "name": "元信寶",
+    "sector": "光電",
+    "price": 178.5,
+    "basePrice": 178.5,
+    "shares": 415759000,
+    "volume": 52876
+  },
+  {
+    "code": "1390",
+    "name": "華富宏創",
+    "sector": "食品",
+    "price": 13.0,
+    "basePrice": 13.0,
+    "shares": 290224000,
+    "volume": 15055
+  },
+  {
+    "code": "1391",
+    "name": "翔寶安瑞聯",
+    "sector": "航運",
+    "price": 10.8,
+    "basePrice": 10.8,
+    "shares": 182673000,
+    "volume": 80934
+  },
+  {
+    "code": "1392",
+    "name": "順廣達翔",
+    "sector": "光電",
+    "price": 173.04,
+    "basePrice": 173.04,
+    "shares": 461046000,
+    "volume": 58890
+  },
+  {
+    "code": "1393",
+    "name": "新昇興",
+    "sector": "其他",
+    "price": 100.32,
+    "basePrice": 100.32,
+    "shares": 451609000,
+    "volume": 31432
+  },
+  {
+    "code": "1394",
+    "name": "順永",
+    "sector": "水泥營造",
+    "price": 123.21,
+    "basePrice": 123.21,
+    "shares": 459834000,
+    "volume": 87436
+  },
+  {
+    "code": "1395",
+    "name": "鼎廣威泰",
+    "sector": "食品",
+    "price": 9.92,
+    "basePrice": 9.92,
+    "shares": 420559000,
+    "volume": 92407
+  },
+  {
+    "code": "1396",
+    "name": "瑞昇鑫新",
+    "sector": "紡織",
+    "price": 132.39,
+    "basePrice": 132.39,
+    "shares": 380422000,
+    "volume": 93247
+  },
+  {
+    "code": "1397",
+    "name": "智星",
+    "sector": "光電",
+    "price": 25.2,
+    "basePrice": 25.2,
+    "shares": 87314000,
+    "volume": 37204
+  },
+  {
+    "code": "1398",
+    "name": "光安華聯",
+    "sector": "油電燃料",
+    "price": 116.62,
+    "basePrice": 116.62,
+    "shares": 323004000,
+    "volume": 42084
+  },
+  {
+    "code": "1399",
+    "name": "廣信威",
+    "sector": "觀光餐飲",
+    "price": 50.57,
+    "basePrice": 50.57,
+    "shares": 315745000,
+    "volume": 12356
+  },
+  {
+    "code": "1400",
+    "name": "光大華",
+    "sector": "運動休閒",
+    "price": 207.1,
+    "basePrice": 207.1,
+    "shares": 386151000,
+    "volume": 81803
+  }
+]
