@@ -1,11 +1,20 @@
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+</div>
 
-# CR證券交易所 CRSE 模擬系統
+# Run and deploy your AI Studio app
 
-國家官方金融風格看盤系統
+This contains everything you need to run your app locally.
 
-## 使用方式
-1. 上傳到 GitHub
-2. 啟用 GitHub Pages
-3. 開啟 index.html
+View your app in AI Studio: https://ai.studio/apps/21d08e28-d16d-44c1-a688-86742d8892c2
 
-僅供模擬，不提供交易功能
+## Run Locally
+
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`

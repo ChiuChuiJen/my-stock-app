@@ -1,44 +1,13 @@
-
-<!DOCTYPE html>
-<html lang="zh">
-<head>
-<meta charset="UTF-8">
-<title>CR證券交易所 CRSE</title>
-<link rel="stylesheet" href="css/style.css">
-</head>
-<body>
-<header>
-<h1>CR證券交易所 CRSE</h1>
-<div id="controls">
-<button onclick="startSim()">開始模擬</button>
-<button onclick="nextDay()">下一日</button>
-<button onclick="toggleAuto()">自動進程</button>
-<select id="speed" onchange="setSpeed(this.value)">
-<option value="1">1x</option>
-<option value="5">5x</option>
-<option value="10">10x</option>
-</select>
-</div>
-</header>
-
-<section id="indexBox">
-<h2>加權指數: <span id="indexValue">5000.00</span></h2>
-</section>
-
-<section id="news">
-<h3>公告與新聞</h3>
-<ul id="newsList"></ul>
-</section>
-
-<table id="marketTable">
-<thead>
-<tr>
-<th>代碼</th><th>名稱</th><th>價格</th><th>漲跌%</th><th>成交量</th>
-</tr>
-</thead>
-<tbody></tbody>
-</table>
-
-<script src="js/market.js"></script>
-</body>
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>My Google AI Studio App</title>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
 </html>
+
