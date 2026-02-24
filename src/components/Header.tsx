@@ -1,98 +1,94 @@
 import React from 'react';
-import { useMarketStore } from '../store/useMarketStore';
-import { Play, Pause, FastForward, SkipForward, Globe } from 'lucide-react';
+import { Play, Pause, FastForward, SkipForward, RefreshCw } from 'lucide-react';
+import { MarketState } from '../types';
+import { formatNumber } from '../utils/simulationUtils';
+import { APP_VERSION } from '../version';
 
-export const Header = () => {
-  const { 
-    index, 
-    currentTime, 
-    isPlaying, 
-    speed, 
-    togglePlay, 
-    setSpeed, 
-    nextDay,
-    initMarket
-  } = useMarketStore();
+interface HeaderProps {
+  marketState: MarketState;
+  onToggle: () => void;
+  onSpeedChange: (speed: number) => void;
+  onNextDay: () => void;
+  onAutoToggle: () => void;
+}
 
-  const formatTime = (date: Date) => {
-    return date.toLocaleTimeString('zh-TW', { hour: '2-digit', minute: '2-digit' });
-  };
-
-  const formatDate = (date: Date) => {
-    return date.toLocaleDateString('zh-TW');
-  };
-
-  const indexChange = index - 5000;
-  const indexChangePct = (indexChange / 5000) * 100;
-  const isPositive = indexChange >= 0;
-
+export const Header: React.FC<HeaderProps> = ({
+  marketState,
+  onToggle,
+  onSpeedChange,
+  onNextDay,
+  onAutoToggle
+}) => {
   return (
-    <header className="bg-slate-900 text-white p-4 shadow-md">
-      <div className="container mx-auto flex flex-col md:flex-row justify-between items-center gap-4">
-        
-        {/* Left: Logo & Index */}
-        <div className="flex items-center gap-6">
-          <div className="text-2xl font-bold bg-gradient-to-r from-blue-400 to-cyan-300 bg-clip-text text-transparent">
-            CR Stock Exchange
-          </div>
-          
-          <div className="flex flex-col">
-            <div className="text-3xl font-mono font-bold">
-              {index.toFixed(2)}
-            </div>
-            <div className={`text-sm font-mono flex gap-2 ${isPositive ? 'text-red-400' : 'text-green-400'}`}>
-              <span>{isPositive ? '▲' : '▼'} {Math.abs(indexChange).toFixed(2)}</span>
-              <span>({Math.abs(indexChangePct).toFixed(2)}%)</span>
-            </div>
+    <div className="bg-slate-900 text-white p-4 shadow-md flex flex-col md:flex-row justify-between items-center gap-4">
+      <div className="flex items-center gap-6">
+        <div className="flex flex-col">
+          <h1 className="text-2xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-blue-400 to-emerald-400">
+            CR 證券交易所
+          </h1>
+          <span className="text-[10px] text-slate-500 font-mono">{APP_VERSION}</span>
+        </div>
+        <div className="flex flex-col">
+          <div className="text-xs text-slate-400">加權指數</div>
+          <div className={`text-2xl font-mono font-bold ${marketState.change >= 0 ? 'text-red-500' : 'text-green-500'}`}>
+            {formatNumber(marketState.index)}
+            <span className="text-sm ml-2">
+              {marketState.change >= 0 ? '▲' : '▼'} {Math.abs(marketState.change).toFixed(2)} ({Math.abs(marketState.changePercent).toFixed(2)}%)
+            </span>
           </div>
         </div>
-
-        {/* Center: Time & Status */}
-        <div className="flex flex-col items-center bg-slate-800 px-6 py-2 rounded-xl border border-slate-700">
-          <div className="text-xs text-slate-400 uppercase tracking-wider">Market Time</div>
-          <div className="text-xl font-mono font-bold text-white">
-            {formatDate(currentTime)} {formatTime(currentTime)}
+        <div className="flex flex-col">
+          <div className="text-xs text-slate-400">時間</div>
+          <div className="text-xl font-mono flex items-center gap-2">
+            {marketState.date} <span className="text-yellow-400">{marketState.time}</span>
+            {(marketState.time < '09:00' || marketState.time > '13:30') && (
+              <span className="text-xs bg-slate-700 text-slate-300 px-1.5 py-0.5 rounded">收盤</span>
+            )}
           </div>
-        </div>
-
-        {/* Right: Controls */}
-        <div className="flex items-center gap-3">
-          <button 
-            onClick={togglePlay}
-            className={`p-3 rounded-full transition-all ${
-              isPlaying ? 'bg-yellow-500 hover:bg-yellow-600' : 'bg-emerald-500 hover:bg-emerald-600'
-            }`}
-          >
-            {isPlaying ? <Pause size={20} /> : <Play size={20} />}
-          </button>
-
-          <div className="flex bg-slate-800 rounded-lg p-1 border border-slate-700">
-            {[1, 2, 5, 10].map((s) => (
-              <button
-                key={s}
-                onClick={() => setSpeed(s)}
-                className={`px-3 py-1 text-xs font-bold rounded ${
-                  speed === s ? 'bg-blue-600 text-white' : 'text-slate-400 hover:text-white'
-                }`}
-              >
-                {s}x
-              </button>
-            ))}
-          </div>
-
-          <button 
-            onClick={nextDay}
-            className="p-2 bg-slate-700 hover:bg-slate-600 rounded-lg text-slate-200"
-            title="Next Day"
-          >
-            <SkipForward size={20} />
-          </button>
-
-          <button className="p-2 bg-slate-700 hover:bg-slate-600 rounded-lg text-slate-200">
-            <Globe size={20} />
-          </button>
         </div>
       </div>
-    </header>
+
+      <div className="flex items-center gap-2">
+        <button
+          onClick={onToggle}
+          className={`p-2 rounded-full ${marketState.isRunning ? 'bg-red-600 hover:bg-red-700' : 'bg-emerald-600 hover:bg-emerald-700'} transition-colors`}
+          title={marketState.isRunning ? "暫停" : "開始模擬"}
+        >
+          {marketState.isRunning ? <Pause size={20} /> : <Play size={20} />}
+        </button>
+        
+        <div className="flex bg-slate-800 rounded-lg p-1">
+          {[1, 2, 5, 10].map(speed => (
+            <button
+              key={speed}
+              onClick={() => onSpeedChange(speed)}
+              className={`px-3 py-1 text-xs rounded ${marketState.speed === speed ? 'bg-blue-600 text-white' : 'text-slate-400 hover:text-white'}`}
+            >
+              {speed}x
+            </button>
+          ))}
+        </div>
+
+        <button
+          onClick={onNextDay}
+          className="p-2 bg-slate-700 hover:bg-slate-600 rounded-lg text-slate-200"
+          title="下一日"
+        >
+          <SkipForward size={20} />
+        </button>
+
+        <button
+          onClick={onAutoToggle}
+          className={`p-2 rounded-lg transition-colors ${marketState.autoProcess ? 'bg-purple-600 text-white' : 'bg-slate-700 text-slate-400'}`}
+          title="自動進程"
+        >
+          <RefreshCw size={20} className={marketState.autoProcess ? 'animate-spin' : ''} />
+        </button>
+        
+        <div className="ml-2 px-3 py-1 bg-slate-800 rounded text-xs text-slate-400">
+          中文
+        </div>
+      </div>
+    </div>
   );
 };

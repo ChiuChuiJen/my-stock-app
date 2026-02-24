@@ -1,5 +1,5 @@
 {
-  "name": "",
-  "description": "",
+  "name": "CR Stock Exchange Simulation",
+  "description": "A virtual stock exchange simulation with real-time price fluctuations, weighted index calculation, and random market events.",
   "requestFramePermissions": []
 }

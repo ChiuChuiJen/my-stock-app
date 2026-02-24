@@ -1,16 +1,17 @@
+
 export interface Stock {
-  id: string;
+  code: string;
   name: string;
-  category: string;
+  sector: string;
   capital: number; // 萬
   initialPrice: number;
   totalShares: number; // 股
   marketCap: number;
-  peRatio: number;
-  pbRatio: number;
-  nav: number; // 每股淨值
+  pe: number;
+  pb: number;
+  nav: number;
   eps: number;
-  yieldRate: number;
+  yield: number; // percentage
   description: string;
   
   // Dynamic Data
@@ -18,74 +19,43 @@ export interface Stock {
   openPrice: number;
   highPrice: number;
   lowPrice: number;
-  previousClose: number;
   volume: number;
   change: number;
   changePercent: number;
+  history: { time: string; price: number; volume: number }[];
+  dailyHistory: { date: string; open: number; high: number; low: number; close: number; volume: number }[];
   
   // Status
-  isLimitUp: boolean;
-  isLimitDown: boolean;
-  isAttention: boolean; // 注意股
-  isDisposition: boolean; // 處置股
-  dispositionDaysLeft: number;
-  attentionDays: number; // Consecutive days
-  
-  // Chips
-  foreignBuy: number;
-  dealerBuy: number;
-  investmentTrustBuy: number;
-  retailBuy: number;
-  
-  history: PricePoint[];
-}
-
-export interface PricePoint {
-  time: string;
-  price: number;
-  volume: number;
+  isWeighted: boolean;
+  weight: number; // Weight in index
+  status: 'Normal' | 'Attention' | 'Discarded';
+  attentionDays: number; // Consecutive days as attention stock
+  discardedDaysLeft: number;
 }
 
 export interface MarketEvent {
   id: string;
-  scope: 'Individual' | 'Sector' | 'Global';
-  nature: 'Bullish' | 'Bearish';
-  source: 'Domestic' | 'International';
-  rarity: 'Common' | 'Major' | 'BlackSwan';
-  trigger: 'Daily' | 'Quarterly' | 'Conditional';
-  condition?: string;
+  scope: '個股' | '類股' | '全體';
+  nature: '利多' | '利空';
+  source: '國內事件' | '國外事件';
+  rarity: '普通' | '重大' | '黑天鵝';
+  trigger: string;
   type: string;
-  impact: number; // Percentage
-  description: string;
+  impact: number; // percentage
+  content: string;
 }
 
 export interface MarketState {
-  currentTime: Date;
-  isPlaying: boolean;
-  speed: number; // 1x, 2x, 5x, 10x
+  date: string;
+  time: string; // HH:mm
   index: number;
-  baseIndex: number; // For calculation
-  stocks: Stock[];
-  events: MarketEvent[];
+  initialIndex: number;
+  change: number;
+  changePercent: number;
+  volume: number;
+  isRunning: boolean;
+  speed: number;
+  autoProcess: boolean;
   activeEvents: MarketEvent[];
-  news: NewsItem[];
-  
-  // Stats
-  limitUpCount: number;
-  limitDownCount: number;
-  attentionCount: number;
-  dispositionCount: number;
-  selectedStock?: Stock | null;
-  
-  // Weighted Stocks
-  weightedStocks: string[]; // IDs of top 300
-  nextAdjustmentDate: Date;
-}
-
-export interface NewsItem {
-  id: string;
-  time: string;
-  title: string;
-  content: string;
-  type: 'Event' | 'Announcement' | 'System';
+  logs: { time: string; message: string; type: 'info' | 'alert' | 'news' }[];
 }
